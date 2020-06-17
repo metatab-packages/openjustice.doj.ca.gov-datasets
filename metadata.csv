@@ -1,0 +1,37 @@
+Declare,metatab-latest
+Title,California OpenJustice Datasets
+Description,"Collection of mulltiple, simpler datasets from OpenJustice that don't require special processing"
+Identifier,ad70456e-eaa6-42fa-bfa1-691971a7b9d1
+Name,openjustice.doj.ca.gov-datasets-1.1.1
+Dataset,datasets
+Origin,openjustice.doj.ca.gov
+Time,
+Space,
+Grain,
+Variant,
+Version,1.1.1
+Version.Major,1
+Version.Minor,1
+Version.Patch,1
+Created,2020-06-16T23:48:35
+Modified,2020-06-16T23:48:36
+Giturl,https://github.com/metatab-packages/policedata-collection.git
+UpdateFrequencey,P3M
+Section,Contacts,Email,Organization,Url
+Wrangler,Eric Busboom,eric@civicknowledge.com,Civic Knowledge,http://civicknowledge.com
+
+Section,Documentation,Title,Description,
+Documentation,file:README.md,README,,
+Homepage,https://openjustice.doj.ca.gov/,Open Justice Homepage,"A transparency initiative led by the California Department of Justice that publishes criminal justice data so we can understand how we are doing, hold ourselves accountable, and improve public policy to make California safer."
+Download Page,https://openjustice.doj.ca.gov/data,Data Repository,Index page for all Open Justice datasets
+
+Section,References,Name,Description,
+
+Section,Resources,Name,Description,
+Datafile,https://data-openjustice.doj.ca.gov/sites/default/files/dataset/2019-06/OnlineArrestData1980-2018.csv,arrests,"Arrests counts aggregated to year, race, agency and other factors"
+Datafile,https://data-openjustice.doj.ca.gov/sites/default/files/dataset/2019-06/OnlineArrestDispoData1980-2018.csv,arrest_dispositions,"Arrests counts aggregated to year, race, agency and other factors, but disaggregated on disposition."
+Datafile,https://data-openjustice.doj.ca.gov/sites/default/files/dataset/2019-07/CCAPO_2016-2018_Agency_0.xlsx,complaints,Summary of civilian complaints by agency
+Datafile,https://data-openjustice.doj.ca.gov/sites/default/files/dataset/2019-06/Crimes_and_Clearances_with_Arson-1985-2018.csv,crimes_clearances,"Counts of reported cimes and clearances, by year and agency"
+Datafile,https://data-openjustice.doj.ca.gov/sites/default/files/dataset/2020-01/RIPA%20Stop%20Data%202018.csv,ripa_stop,RIPA Stop Data
+
+Section,Schema,DataType,AltName,Description
