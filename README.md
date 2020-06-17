@@ -10,5 +10,6 @@ to documentation.
 
 ## Processing
 
-By loading the datasets into this data package, the headings have been standardized to lowercase, but no other processing is done. 
+By loading the datasets into this data package, the headings have been
+standardized to lowercase, but no other processing is done.
 
