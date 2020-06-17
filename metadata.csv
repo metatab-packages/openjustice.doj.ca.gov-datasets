@@ -16,6 +16,7 @@ Version.Minor,1
 Version.Patch,1
 Created,2020-06-16T23:48:35
 Modified,2020-06-17T00:37:18
+UpdateFrequency,P3M
 Giturl,https://github.com/metatab-packages/policedata-collection.git
 Updatefrequencey,P3M
 ""
