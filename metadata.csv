@@ -33,5 +33,7 @@ Datafile,https://data-openjustice.doj.ca.gov/sites/default/files/dataset/2019-06
 Datafile,https://data-openjustice.doj.ca.gov/sites/default/files/dataset/2019-07/CCAPO_2016-2018_Agency_0.xlsx,complaints,Summary of civilian complaints by agency
 Datafile,https://data-openjustice.doj.ca.gov/sites/default/files/dataset/2019-06/Crimes_and_Clearances_with_Arson-1985-2018.csv,crimes_clearances,"Counts of reported cimes and clearances, by year and agency"
 Datafile,https://data-openjustice.doj.ca.gov/sites/default/files/dataset/2020-01/RIPA%20Stop%20Data%202018.csv,ripa_stop,RIPA Stop Data
-
+Datafile,https://data-openjustice.doj.ca.gov/sites/default/files/dataset/2019-06/LE_and_CJ_Personnel_2003-2018.csv,lea_cjp,Law Enforcement and Criminal Justice Personnel 
+Datafile,https://data-openjustice.doj.ca.gov/sites/default/files/dataset/2019-06/Law_Enforcement_Personnel_1991-2018.csv,leap,Law Enforcement Personnel 
+Datafile,https://data-openjustice.doj.ca.gov/sites/default/files/dataset/2019-06/LEOKA_2000-2018.csv,leoka, Law Enforcement Officers Killed or Assaulted 
 Section,Schema,DataType,AltName,Description
